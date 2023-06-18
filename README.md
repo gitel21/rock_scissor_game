@@ -1,0 +1,1 @@
+This simple game app demostrated JavaScript module syntax by importing confetti features from a third-party JS file. 
